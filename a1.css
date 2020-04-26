@@ -1,0 +1,53 @@
+body {
+    background-color: orange;
+    padding-left:20em;
+}
+
+ul.menu {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+}
+
+ul.menu li {
+    background: white;
+    margin: 0.7em ;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  
+a:link {
+    color: blue }
+
+a:visited {
+    color: purple }
+
+#Maintitle{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+#pic2:hover{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    padding: 14px;
+}
+
+#pic2{
+    width: 50%;
+    height: auto;
+}
+
+p1{
+    color: red;
+}
+h2{
+    font-family: fantasy;
+    color: red;
+}
+
+address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted;
+}
